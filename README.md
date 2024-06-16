@@ -15,3 +15,5 @@ a Convolutional Neural Network (CNN) framework, to
 enhance signal detection accuracy. Real-time data collected
 from various locations across the city of Kolkata forms the
 foundation for this system’s development.
+
+[Conference Paper Publication](https://www.researchgate.net/publication/376831163_YOLOv8_based_Traffic_Signal_Detection_in_Indian_Road#fullTextFileContent)
